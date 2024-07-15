@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lucas Mendes, estou estudando Engenharia de Software</h2>
+<h2 align="left">Hi 👋! Eu sou o Lucas Mendes, Estudante de Engenharia de Software</h2>
 
 ###
 
