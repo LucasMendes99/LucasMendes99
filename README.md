@@ -37,3 +37,7 @@ Objetivo: atuar como desenvolvedor Fullstack e construir aplicações completas,
 </div>
 
 ###
+
+<h2>🤝 Vamos nos conectar?</h2>
+Se você também é apaixonado por tecnologia, fique feliz em trocar ideias e experiências! Estou sempre em busca de aprender e explorar novos caminhos.
+
