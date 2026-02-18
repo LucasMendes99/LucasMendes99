@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Eu sou o Lucas Mendes, Estudante de Engenharia de Software! </h2>
+<h2 align="left">Olá  Eu sou o Lucas Mendes 👋 </h2>
 
 ###
 
